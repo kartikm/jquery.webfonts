@@ -40,7 +40,7 @@ or, with PHP
 php -S localhost:8000
 ```
 and, you can run tests from
-```bash
+```
 http://localhost:8000/tests/
 ```
 
